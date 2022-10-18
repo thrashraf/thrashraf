@@ -14,6 +14,10 @@
 <br>
 <br>
 <br>
+### Badges
+[![@thrashraf's Holopin board](https://holopin.me/thrashraf)](https://holopin.io/@thrashraf)
+<br>
+<br>
 ### Side Project 🚧
 <br>
 
