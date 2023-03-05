@@ -2,7 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=thrashraf)
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=thrashraf&show_icons=true&theme=radical" />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thrashraf)](https://git.io/streak-stats)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thrashraf)](https://git.io/streak-stats)
 
 \
 \
