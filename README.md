@@ -33,3 +33,7 @@
 | Netflix Clone | [Link](https://thrashraf.github.io/Netflix-Clone-V1/) |  [Repository](https://github.com/thrashraf/Netflix-Clone-V1) |
 | IP Address Tracker | [Link](https://thrashraf.github.io/IP-Address-Tracker/) |  [Repository](https://github.com/thrashraf/IP-Address-Tracker) |
 | Rock Paper Scissor | [Link](https://thrashraf.github.io/Rock-Paper-Scissor/) |  [Repository](https://github.com/thrashraf/Rock-Paper-Scissor) |
+
+<br>
+
+![Snake animation](https://github.com/thrashraf/thrashraf/blob/output/github-contribution-grid-snake.svg)
