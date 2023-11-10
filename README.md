@@ -1,8 +1,6 @@
 # Hi there, I'm Ashraf 👋🏻
 ![](https://komarev.com/ghpvc/?username=thrashraf)
 
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=thrashraf&show_icons=true&theme=radical" />
-
 \
 \
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
