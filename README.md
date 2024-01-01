@@ -2,10 +2,6 @@
 Ashraf</a></h1>
 <h3 align="center">A passionate Full Stack Developer from Malaysia 🇲🇾 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thrashraf" alt="100rabhcsmc" /> </p>
-
-<p align="left"> <a href="https://twitter.com/thrashraf" target="blank"><img src="https://img.shields.io/twitter/follow/thrashraf?logo=twitter&style=for-the-badge" alt="thrashraf" /></a> </p>
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
